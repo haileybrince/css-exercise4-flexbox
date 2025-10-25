@@ -1,27 +1,32 @@
 body{
-
+    background-color: rgb(55, 78, 60);
+    font-family: sans-serif;
 }
 
 .header{
-
+    background-color: rgb(126, 212, 173);
 }
 
 .main-content{
-
+    background-color: rgb(164, 242, 176);
 }
 
 .full-page{
-
+    max-width: 600px;
+    margin: auto;
 }
 
 .middle{
-
+    display: flex;
+    flex-direction: row-reverse;
 }
 
 .side-bar{
-
+    background-color: rgb(166, 237, 105);
+    padding: 20px;
+    margin-left: 10px;
 }
 
 .footer{
-    
+    background-color: rgb(207, 239, 139);
 }
